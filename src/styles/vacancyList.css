@@ -1,0 +1,39 @@
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.searchesSetings {
+  background-color: rgb(217, 238, 227);
+}
+
+.searches {
+  margin: 10px;
+}
+
+.vacansivacancies-items {
+  margin-bottom: 50px;
+}
+
+.autocomplete {
+    left: 0;
+    top: 50px;
+    width: 100%;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    box-shadow: 1px 1px 5px black;
+    z-index: 111;
+    max-height: 240px;
+    height: auto;
+    overflow: auto;
+}
+
+.autocomplete-item {
+    padding: 10px;
+}
+
+.autocomplete-item:hover {
+    background-color: #d6d6d6;
+    cursor: pointer;
+    transition: cubic-bezier(1, 0, 0, 1) .3s all;
+}

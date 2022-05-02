@@ -1,0 +1,45 @@
+#components-layout-demo-fixed .logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+  background: rgba(255, 255, 255, 0.2);
+}
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.logo {
+  width: 100%;
+  margin-right: 25%;
+}
+
+.Footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.exit {
+  margin-left: 10%;
+}
+
+.searchesSetings {
+  background-color: rgb(217, 238, 227);
+}
+
+.vacansivacancies-items {
+  margin-bottom: 50px;
+
+}
+
+.vacansivacancies-items-title {
+  
+}
+
+.vacansivacancies-items-body {
+}
